@@ -1,0 +1,199 @@
+{
+  "name": "@folio/translations",
+  "version": "1.0.0",
+  "description": "FOLIO Translations Management App",
+  "repository": "https://github.com/folio-org/ui-translations.git",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "main": "src/index.js",
+  "stripes": {
+    "actsAs": [
+      "app",
+      "settings"
+    ],
+    "displayName": "ui-translations.meta.title",
+    "route": "/translations",
+    "home": "/translations",
+    "queryResource": "query",
+    "actionNames": [
+      "stripesHome"
+    ],
+    "icons": [
+      {
+        "name": "app",
+        "alt": "Create, view and manage translations",
+        "title": "Translations"
+      }
+    ],
+    "okapiInterfaces": {
+      "translations": "1.0.0"
+    },
+    "permissionSets": [
+      {
+        "permissionName": "module.translations.enabled",
+        "displayName": "UI: ui-translations module is enabled"
+      },
+      {
+        "permissionName": "settings.translations.enabled",
+        "displayName": "Settings (translations): display list of settings pages",
+        "subPermissions": [
+          "settings.enabled"
+        ]
+      },
+      {
+        "permissionName": "ui-translations.view",
+        "displayName": "Translations: User can view translations app",
+        "subPermissions": [
+          "module.translations.enabled",
+          "translations.translations.collection.get",
+          "translations.translations.item.get",
+          "translations.languages.collection.get",
+          "translations.languages.item.get",
+          "translations.languageTranslators.collection.get",
+          "translations.languageTranslators.item.get"
+        ],
+        "visible": true
+      },
+      {
+        "permissionName": "ui-translations.edit",
+        "displayName": "Translations: User can edit translations messages",
+        "description": "User can edit translations messages",
+        "subPermissions": [
+          "ui-translations.view",
+          "translations.translations.item.put",
+          "translations.languages.item.put",
+          "translations.languageTranslators.item.put"
+        ],
+        "visible": true
+      },
+      {
+        "permissionName": "ui-translations.create",
+        "displayName": "Translations: User can create new translations messages",
+        "description": "User can create new translations messages",
+        "subPermissions": [
+          "ui-translations.edit",
+          "translations.translations.item.post",
+          "translations.languages.item.post",
+          "translations.languageTranslators.item.post"
+        ],
+        "visible": true
+      },
+      {
+        "permissionName": "ui-translations.delete",
+        "displayName": "Translations: User can delete translations messages",
+        "description": "User can delete translations messages",
+        "subPermissions": [
+          "ui-translations.create",
+          "translations.translations.item.delete",
+          "translations.languages.item.delete",
+          "translations.languageTranslators.item.delete"
+        ],
+        "visible": true
+      },
+      {
+        "permissionName": "ui-translations.settings.enabled",
+        "displayName": "Settings (translations): display list of settings pages",
+        "subPermissions": [
+          "settings.translations.enabled"
+        ],
+        "visible": true
+      },
+      {
+        "permissionName": "ui-translations.settings.languageTranslators",
+        "displayName": "Settings (translations): User can assigning languages translators",
+        "subPermissions": [
+          "ui-translations.settings.enabled",
+          "translations.languageTranslators.collection.get",
+          "translations.languageTranslators.item.get",
+          "translations.languageTranslators.item.post",
+          "translations.languageTranslators.item.put",
+          "translations.languageTranslators.item.delete"
+        ],
+        "visible": true
+      },
+      {
+        "permissionName": "ui-translations.settings.languages",
+        "displayName": "Settings (translations): User can add and delete and mange languages",
+        "subPermissions": [
+          "ui-translations.settings.enabled",
+          "translations.languages.collection.get",
+          "translations.languages.item.get",
+          "translations.languages.item.post",
+          "translations.languages.item.put",
+          "translations.languages.item.delete"
+        ],
+        "visible": true
+      },
+      {
+        "permissionName": "ui-translations.all",
+        "displayName": "Translations: all permissions",
+        "description": "all permissions",
+        "subPermissions": [
+          "ui-translations.view",
+          "ui-translations.edit",
+          "ui-translations.create",
+          "ui-translations.delete",
+          "ui-translations.settings.languages",
+          "ui-translations.settings.languageTranslators"
+        ],
+        "visible": true
+      }
+    ]
+  },
+  "scripts": {
+    "start": "stripes serve",
+    "build": "stripes build",
+    "lint": "eslint .",
+    "test": "stripes test karma",
+    "test-int": "stripes test nightmare"
+  },
+  "devDependencies": {
+    "@bigtest/interactor": "^0.9.1",
+    "@bigtest/mirage": "^0.0.1",
+    "@bigtest/mocha": "^0.5.2",
+    "@bigtest/react": "^0.1.2",
+    "@folio/eslint-config-stripes": "^3.2.1",
+    "@folio/stripes": "^6.1.2",
+    "@folio/stripes-cli": "^2.0.0",
+    "@folio/stripes-components": "^9.0.0",
+    "@folio/stripes-core": "^7.0.0",
+    "@folio/stripes-final-form": "^5.0.0",
+    "babel-eslint": "^9.0.0",
+    "babel-polyfill": "^6.26.0",
+    "chai": "^4.2.0",
+    "eslint": "^5.5.0",
+    "faker": "^4.1.0",
+    "mocha": "^5.2.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-intl": "^5.8.8",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "sinon": "^7.1.1"
+  },
+  "dependencies": {
+    "@folio/react-intl-safe-html": "^1.0.0",
+    "hashcode": "^1.0.3",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.5.10",
+    "query-string": "^5.0.0",
+    "react-dropzone": "^11.3.2",
+    "react-final-form": "^6.5.2",
+    "react-final-form-arrays": "^3.1.3",
+    "react-highlight-words": "^0.17.0",
+    "react-hot-loader": "^4.3.12",
+    "react-intl": "^5.8.8",
+    "react-query": "^3.16.0",
+    "react-router-prop-types": "^1.0.4"
+  },
+  "peerDependencies": {
+    "@folio/stripes": "^6.1.2",
+    "react": "*",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
+  }
+}

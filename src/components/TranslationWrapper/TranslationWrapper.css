@@ -1,0 +1,9 @@
+.noLanguageSelected {
+  display: flex;
+  height: 100%;
+  font-size: 1.3rem;
+  background: rgba(0, 0, 0, 0.03);
+  color: rgba(0, 0, 0, 0.62);
+  justify-content: center;
+  align-items: center;
+}

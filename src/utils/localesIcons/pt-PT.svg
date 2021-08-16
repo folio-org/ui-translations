@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt Svg Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<image x="0" y="0" width="32" height="32" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAABJ0AAASdAHeZh94AAADw0lEQVRIie2Wf0yUdRzHX8/z3B0ndSDgHQjCHQfy65JEoBaTnc1QXHMJ1K1Y7jZzIy20ZhFbRKs/6g915nIF2BQXOfshwqSfxFg0MBaSLhFRMBdwCgTe8ILTO+7pDw1mEc9hfzS33n89332e7+f1/by/+3z3EcQqkTklyniKfHP/M4dUPllps3zHyQEUjv/v9T/gvwdIrJ89oJXIEjF1Et9BXSRyPCY1mtF5A2apQCvySDe5X/GBlbftpJiJtPBABS27kQQuZs4PIFB523qJmtFifuokZy2WjVxJ5v52ogYoGuPla6TnYUmlay8lTf72x20Ag4qwd6jYmanuSR+5B69XAmLcXs24GHdZlEAOvXHIGZD97L5jL1DWNE+AeorCdhYEkmrJ35JcSwCshBBogXbYDHnwJp5vM151dGg0RJ5ha70yQDX9lXmJ4GAKCnB1wfvgBcAFb4AOgEnIRd4uOi7ikai/wFYRlB6amUt2NBC/lIYGxsbgM/rrOLZrV9P+6hfDx/eYupuqqw9PWhlEao2sOYpxmAPVXF6hXIH4p1MsS2RbMUd+wyfciq202Vbb7YYoXb8zabXdHpySAngkXilA1lNTQ4neb4tirmKOobQUo4lM4xR2tEPUfKKfcDM6SmwsZWWkLb7v+rsPTY7rrvai0qCSkUP8Boha3G76+hh0kCAtTrahcdB3SiuKBAXR1obFQu/viW6TM0D6MQqDely6FsMPzT7CweNhbEwBMHQv0dE0tdOXTYFKxyZcOgqrBgJDllRWsmYNej00fxS8udtnNZc3DsvhVJZjEGBIoYJbdzAxRdUBgtToxvniys+MiJG9DHxcvnw5ixbR2kpa4oWoDz/lBu64rJdslKSQlMSmCL8tAswZZMRQHE9CwglvTo7K8HV+/sG6vG6dsTQu8Ixr51tpxyfYwImQQNck67ZxspPsHmXATKNF+7C20ttLiJGnVjy9Ua7lywmG4BwIsAAOcf38Y0civnMMOoNCqT/KN83KgJk+6BcZjqOikrOdPKevec1U4Flq5bwIICOHRTh7numoPWU66PR6aDxOQ5dydv7yFgmwqpU9O3h0PebX6ZLCHl+YY/slWDUxlf15t3C2bfeDctgTnD7JjjaiT88fcJOR00+Whty1PFnIwljS45GdfN/Cug08v53UZQzGEuqH+7MDbipag7ERVw9biug5h9eLRs17+2iw8nAzePzN/o+A6WoMWsIvsfcw1l8RJueRd1qqOWIyDLkZCWeV34b8XXf/VHH3A1SioDS+A8KdT9h/AKFdP8gBDqL+AAAAAElFTkSuQmCC" />
+</g>
+</svg>

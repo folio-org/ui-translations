@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt Svg Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<image x="0" y="0" width="32" height="32" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAABJ0AAASdAHeZh94AAABz0lEQVRIie3Vv2tTYRTG8c9N0iQURFoqVhwUHIpVhJpBqVCp6OQPFLeuHQRHNwcH3YQu/gMKosVBEFysOIl0lLaLKOikVBSJUqG2SU0c2hAuzb033iTg4DPd+3De8z3vOS/vG9RLeqpMb9N3B5Ajy5F0gGIbgFFmuczOFIBpCkmAHBkyrauJBWQ4x4kkwBJTPObL3wIOs4vTSYDfVFmKLDJap8BEe5OIUC70N8ZZAgIyjeYUmeF7I+Yj96imAywwzHX6w1HHGx9zPIjNPkiZIb5tGdta9Iwp3mxbuc4tbrAaW/Ah7jPeNFrN4BPTlMPmDE+px2bPc5R9HGz2INc6dC+DYWeMJ7HZUeEO75hrehGnaBL85CavwAR9SYBNPQ/9RexgkgVuDyj3ma87n3WlYnzVy7VkQLiNQYvreohL3KUWCILNMPtrtTMj1fmBytqvHe8X29tLFCBoPcx6Pr8yfKDw42sxl5XJQq0GG1Ur5a2FI7xNBKTTHi5wjEe8aJbYvQfnM7sZZTHUgO7tACWWCVhuehGnKJ1et/D+8Te5PzkkLaDASa71DrBOiYtcTbhC0gICPjDLw4THp7NjGpBlIy6ksyHXE7J3DGhD/wGJ+gNoV2Asu1W98gAAAABJRU5ErkJggg==" />
+</g>
+</svg>
