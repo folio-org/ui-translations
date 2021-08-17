@@ -6,8 +6,12 @@ Copyright (C) 2020 The KnowledgeWare Technologies Devolopers Team.
 
 This software is distributed under the terms of the Apache License, Version 2.0. See the file "[LICENSE](LICENSE)" for more information.
 
+* [Introduction](#introduction)
+* [Workflow](#workflow)
+
 ## Introduction
 
+## Workflow
 
 ## Run translations app
 
