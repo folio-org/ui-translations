@@ -36,8 +36,8 @@ See this [PR](https://github.com/folio-org/ui-inventory/pull/1440/files#diff-582
 As a translator, you must be assigned as a translator for a specific language from the translation app settings, and then you can go to the application interface, choose your language and start your translation process.
 
 ## Workflow
-See the workflow for translating library-defined controlled vocabularies from [here]().
-Also see [Thinking about multilingual schema]() to learn about the ideas that have been raised, the challenges corresponding to their implementation, and the decisions that led us to take this path in translating library-defined controlled vocabularies.
+See the workflow for translating library-defined controlled vocabularies from [here](https://github.com/folio-org/ui-translations/blob/master/docs/Workflow.md).
+Also see [Thinking about multilingual schema](https://github.com/folio-org/ui-translations/blob/master/docs/Thinking%20about%20multilingual%20schema.md) to learn about the ideas that have been raised, the challenges corresponding to their implementation, and the decisions that led us to take this path in translating library-defined controlled vocabularies.
 
 ## Run translations app
 
