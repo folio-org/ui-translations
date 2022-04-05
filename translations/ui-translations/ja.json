@@ -48,7 +48,7 @@
     "filters.options.tableFilter.patronNoticePolicies": "Patron notice policies",
     "filters.options.tableFilter.alternativeTitleTypes": "Alternative title types",
     "filters.options.tableFilter.electronicAccessRelationships": "URL relationship",
-    "filters.options.tableFilter.materialTypes": "Material types",
+    "filters.options.tableFilter.materialTypes": "資料種別",
     "filters.options.tableFilter.departments": "Departments",
     "filters.options.tableFilter.patronGroups": "Patron groups",
     "filters.options.tableFilter.issuanceModes": "Modes of issuance",
