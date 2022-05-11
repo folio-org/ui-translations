@@ -78,7 +78,7 @@
     "filters.options.tableFilter.lostItemFeePolicies": "Lost item fee policies",
     "filters.options.tableFilter.addresses": "Addresses",
     "filters.options.tableFilter.waivers": "Fee/fine: Waive reasons",
-    "filters.options.tableFilter.supplementaryProperties": "Supplementary properties",
+    "filters.options.tableFilter.supplementaryProperties": "Propiedades suplementarias",
     "filters.options.tableFilter.fixedDueDateSchedules": "Fixed due date schedules",
     "filters.options.tableFilter.finePolicies": "Overdue fine policies",
     "filters.options.tableFilter.feefines": "Fee/fine: Manual charges",
