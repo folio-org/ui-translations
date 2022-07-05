@@ -105,18 +105,18 @@
     "settings.languagesTranslators.columns.translators": "Překladatelé",
     "settings.languages.lable": "Jazyky",
     "settings.languages.addLocales": "Přidejte jazyky",
-    "settings.languages.numberOfLanguages": "No.Of Languages",
+    "settings.languages.numberOfLanguages": "Počet jazyků",
     "settings.languages.columns.name": "Jazyk",
     "settings.languages.columns.localeCode": "Kód",
     "settings.languages.columns.actions": "Akce",
     "settings.languages.addModal.header": "Přidání nových jazyků",
     "settings.languages.addModal.languagesListFound": "There are {count} unselected languages",
-    "settings.languages.pane.subHeader": "{count} languages found",
+    "settings.languages.pane.subHeader": "{count} nalezených jazyků",
     "settings.languages.status.enabled": "Povoleno",
     "settings.languages.status.disabled": "Zakázáno",
-    "settings.languages.deleteModal.heading": "Delete translation languages",
+    "settings.languages.deleteModal.heading": "Odstranění jazyků překladu",
     "settings.languages.deleteModal.message.header": "You are about to delete the following languages:",
-    "settings.languages.deleteModal.message": "If you confirm delete, all translations and translators assigned to these languages will be deleted.",
+    "settings.languages.deleteModal.message": "Pokud potvrdíte odstranění, budou odstraněny všechny překlady a překladatelé přiřazení k těmto jazykům.",
     "settings.languages.callout.message.addNew": "The following languages have been successfully added:",
-    "settings.languages.callout.deletedMessage": "The following languages have been successfully deleted:"
+    "settings.languages.callout.deletedMessage": "Následující jazyky byly úspěšně odstraněny:"
 }
