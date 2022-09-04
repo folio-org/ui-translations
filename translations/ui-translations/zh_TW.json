@@ -37,7 +37,7 @@
     "filters.options.tableFilter.section": "Terms",
     "filters.options.tableFilter.holdingsTypes": "Holdings types",
     "filters.options.tableFilter.pickListValues": "Pick list values",
-    "filters.options.tableFilter.identifierTypes": "Resource identifier types",
+    "filters.options.tableFilter.identifierTypes": "資源識別名稱類型",
     "filters.options.tableFilter.owners": "Fee/fine: Owners",
     "filters.options.tableFilter.reasonsForClosure": "Closing purchase order reasons",
     "filters.options.tableFilter.ServicePoint": "Service points",
