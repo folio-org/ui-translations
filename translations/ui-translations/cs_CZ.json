@@ -114,9 +114,9 @@
     "settings.languages.pane.subHeader": "{count} nalezených jazyků",
     "settings.languages.status.enabled": "Povoleno",
     "settings.languages.status.disabled": "Zakázáno",
-    "settings.languages.deleteModal.heading": "Odstranění jazyků překladu",
-    "settings.languages.deleteModal.message.header": "Chystáte se odstranit následující jazyky:",
-    "settings.languages.deleteModal.message": "Pokud potvrdíte odstranění, budou odstraněny všechny překlady a překladatelé přiřazení k těmto jazykům.",
+    "settings.languages.deleteModal.heading": "Smazání jazyků překladu",
+    "settings.languages.deleteModal.message.header": "Chystáte se smazat následující jazyky:",
+    "settings.languages.deleteModal.message": "Pokud potvrdíte smazání, budou smazány všechny překlady a překladatelé přiřazení k těmto jazykům.",
     "settings.languages.callout.message.addNew": "Úspěšně byly přidány následující jazyky:",
-    "settings.languages.callout.deletedMessage": "Následující jazyky byly úspěšně odstraněny:"
+    "settings.languages.callout.deletedMessage": "Následující jazyky byly úspěšně smazány:"
 }
