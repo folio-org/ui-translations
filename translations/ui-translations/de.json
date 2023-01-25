@@ -56,7 +56,7 @@
     "filters.options.tableFilter.loantypes": "Ausleihtypen",
     "filters.options.tableFilter.expenseClasses": "Kostenarten",
     "filters.options.tableFilter.addressTypes": "Adresstypen",
-    "filters.options.tableFilter.illPolicies": "Richtlinie zur Fernleihe",
+    "filters.options.tableFilter.illPolicies": "Fernleihrichtlinien",
     "filters.options.tableFilter.PatronNotices": "Vorlagen Benachrichtigungen Benutzende",
     "filters.options.tableFilter.staffSlips": "Dienstzettel",
     "filters.options.tableFilter.suffixes": "Suffixe",
