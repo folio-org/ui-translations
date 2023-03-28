@@ -45,7 +45,7 @@
     "filters.options.tableFilter.classificationTypes": "Typy identifikátorů klasifikace",
     "filters.options.tableFilter.cancellationReasons": "Vyžádat důvody zrušení",
     "filters.options.tableFilter.statisticalCodes": "Statistické kódy",
-    "filters.options.tableFilter.patronNoticePolicies": "Pravidla notifikace pro čtenáře",
+    "filters.options.tableFilter.patronNoticePolicies": "Pravidla notifikací pro čtenáře",
     "filters.options.tableFilter.alternativeTitleTypes": "Alternativní typy názvů",
     "filters.options.tableFilter.electronicAccessRelationships": "Vztah URL",
     "filters.options.tableFilter.materialTypes": "Typy materiálu",
