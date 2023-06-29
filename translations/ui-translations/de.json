@@ -22,7 +22,7 @@
     "filters.options.statusFilter.noneEnglish": "Kein Englisch",
     "filters.options.tableFilter.callNumberTypes": "Signaturtypen",
     "filters.options.tableFilter.permissions": "Berechtigungen",
-    "filters.options.tableFilter.contributorTypes": "Arten des Mitwirkenden",
+    "filters.options.tableFilter.contributorTypes": "Arten des/der Mitwirkende/-n",
     "filters.options.tableFilter.instanceTypes": "Ressourcentypen",
     "filters.options.tableFilter.instanceFormats": "Formate",
     "filters.options.tableFilter.instanceNoteTypes": "Instanz-Anmerkungstypen",
