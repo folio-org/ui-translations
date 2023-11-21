@@ -113,7 +113,7 @@
     "settings.languages.addModal.languagesListFound": "Existuje {count} nevybraných jazyků",
     "settings.languages.pane.subHeader": "{count} nalezených jazyků",
     "settings.languages.status.enabled": "Povoleno",
-    "settings.languages.status.disabled": "Zakázáno",
+    "settings.languages.status.disabled": "Deaktivováno",
     "settings.languages.deleteModal.heading": "Smazání jazyků překladu",
     "settings.languages.deleteModal.message.header": "Chystáte se smazat následující jazyky:",
     "settings.languages.deleteModal.message": "Pokud potvrdíte smazání, budou smazány všechny překlady a překladatelé přiřazení k těmto jazykům.",
