@@ -75,7 +75,7 @@
     "filters.options.tableFilter.refunds": "Tarifa/multa: razones de reembolso",
     "filters.options.tableFilter.locinsts": "Instituciones",
     "filters.options.tableFilter.prefixes": "Prefijos",
-    "filters.options.tableFilter.lostItemFeePolicies": "Políticas de tarifa por ejemplar perdido",
+    "filters.options.tableFilter.lostItemFeePolicies": "Políticas de tarifa por ítem perdido",
     "filters.options.tableFilter.addresses": "Direcciones",
     "filters.options.tableFilter.waivers": "Tarifa/multa: razones de renuncia",
     "filters.options.tableFilter.supplementaryProperties": "Propiedades suplementarias",
