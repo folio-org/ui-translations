@@ -77,7 +77,7 @@
     "filters.options.tableFilter.prefixes": "Präfixe",
     "filters.options.tableFilter.lostItemFeePolicies": "Gebührenrichtlinien für verlorene Exemplare",
     "filters.options.tableFilter.addresses": "Adressen",
-    "filters.options.tableFilter.waivers": "Forderungen: Stornierungsgrund",
+    "filters.options.tableFilter.waivers": "Forderungen: Gründe für einen Erlass von Forderungen",
     "filters.options.tableFilter.supplementaryProperties": "Ergänzende Eigenschaften",
     "filters.options.tableFilter.fixedDueDateSchedules": "Feste Fälligkeitszeitpläne",
     "filters.options.tableFilter.finePolicies": "Gebührenrichtlinien für überfällige Exemplare",
