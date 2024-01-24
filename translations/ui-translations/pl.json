@@ -107,7 +107,7 @@
     "settings.languages.addLocales": "Dodaj języki",
     "settings.languages.numberOfLanguages": "No.Of Languages",
     "settings.languages.columns.name": "Język",
-    "settings.languages.columns.localeCode": "Code",
+    "settings.languages.columns.localeCode": "Kod",
     "settings.languages.columns.actions": "Akcje",
     "settings.languages.addModal.header": "Dodaj nowe języki",
     "settings.languages.addModal.languagesListFound": "There are {count} unselected languages",
