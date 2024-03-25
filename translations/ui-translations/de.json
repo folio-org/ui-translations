@@ -40,7 +40,7 @@
     "filters.options.tableFilter.identifierTypes": "Ressourcen-Identifiertypen",
     "filters.options.tableFilter.owners": "Forderungen: Eigentümer/innen",
     "filters.options.tableFilter.reasonsForClosure": "Gründe für Bestellabschluss",
-    "filters.options.tableFilter.ServicePoint": "Service points",
+    "filters.options.tableFilter.ServicePoint": "Servicestellen",
     "filters.options.tableFilter.userInfo": "User informations",
     "filters.options.tableFilter.classificationTypes": "Klassifikations-Identifiertypen",
     "filters.options.tableFilter.cancellationReasons": "Request cancellation reasons",
