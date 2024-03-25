@@ -1,7 +1,7 @@
 {
     "meta.title": "翻訳",
     "buttons.translate": "Translate",
-    "buttons.editItem": "Edit",
+    "buttons.editItem": "編集",
     "buttons.addAndClose": "Add & Close",
     "buttons.confirmDelete": "Confirm delete",
     "buttons.tooltip.hideFilters": "検索&フィルターパネルを非表示にする",
