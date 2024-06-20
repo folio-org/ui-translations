@@ -50,7 +50,7 @@
     "filters.options.tableFilter.electronicAccessRelationships": "URL relationship",
     "filters.options.tableFilter.materialTypes": "Types de matériel",
     "filters.options.tableFilter.departments": "Departments",
-    "filters.options.tableFilter.patronGroups": "Groupes / catégories d'utilisateurs",
+    "filters.options.tableFilter.patronGroups": "Groupes usagers",
     "filters.options.tableFilter.issuanceModes": "Modes of issuance",
     "filters.options.tableFilter.PermissionSets": "Permission sets",
     "filters.options.tableFilter.loantypes": "Types de prêt",
