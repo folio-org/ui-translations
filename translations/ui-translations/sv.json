@@ -90,7 +90,7 @@
     "searchBox.searchOptions.translationKey": "Translation key",
     "searchBox.validate.noLangaugeFound": "Choose a language to activate the search",
     "searchBox.enterSearchTerm": "Enter search term",
-    "Stats.validate.noStats": "No statistics!",
+    "Stats.validate.noStats": "Ingen statistik!",
     "Stats.paneTitle": "Statistics",
     "editTranslation.form.translatedText.placeholder": "Enter translation text",
     "editTranslation.modal.header": "{appName} App - {tableName} Table",
