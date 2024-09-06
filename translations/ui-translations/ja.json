@@ -20,7 +20,7 @@
     "filters.options.statusFilter.notTranslated": "Not translated",
     "filters.options.statusFilter.englishOnly": "英語のみ",
     "filters.options.statusFilter.noneEnglish": "None english",
-    "filters.options.tableFilter.callNumberTypes": "Call number types",
+    "filters.options.tableFilter.callNumberTypes": "請求記号タイプ",
     "filters.options.tableFilter.permissions": "権限",
     "filters.options.tableFilter.contributorTypes": "寄与者タイプ",
     "filters.options.tableFilter.instanceTypes": "リソースタイプ",
