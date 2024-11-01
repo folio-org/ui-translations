@@ -101,7 +101,7 @@
     "settings.languagesTranslators.addTranslators.toolTip": "Add translators",
     "settings.languagesTranslators.filterByGroup": "Filter by group",
     "settings.languagesTranslators.columns.user": "Użytkownik",
-    "settings.languagesTranslators.columns.group": "Group",
+    "settings.languagesTranslators.columns.group": "Grupa",
     "settings.languagesTranslators.columns.translators": "Translators",
     "settings.languages.lable": "Języki",
     "settings.languages.addLocales": "Dodaj języki",
