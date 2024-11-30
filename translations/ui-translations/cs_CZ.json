@@ -79,7 +79,7 @@
     "filters.options.tableFilter.addresses": "Adresy",
     "filters.options.tableFilter.waivers": "Poplatek/pokuta: Důvody odpuštění",
     "filters.options.tableFilter.supplementaryProperties": "Doplňkové vlastnosti",
-    "filters.options.tableFilter.fixedDueDateSchedules": "Rozvrhy pevných termínů vrácení",
+    "filters.options.tableFilter.fixedDueDateSchedules": "Plány pevných termínů vrácení",
     "filters.options.tableFilter.finePolicies": "Pravidla pokut za pozdní vrácení",
     "filters.options.tableFilter.feefines": "Poplatek/pokuta: Manuální poplatky",
     "resultsPane.columns.actions": "Akce",
