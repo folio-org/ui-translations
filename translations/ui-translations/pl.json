@@ -50,7 +50,7 @@
     "filters.options.tableFilter.electronicAccessRelationships": "Relacja URL",
     "filters.options.tableFilter.materialTypes": "Typy materiału",
     "filters.options.tableFilter.departments": "Działy",
-    "filters.options.tableFilter.patronGroups": "Grupy czytelników",
+    "filters.options.tableFilter.patronGroups": "Grupy czytelnika",
     "filters.options.tableFilter.issuanceModes": "Tryby wydawania",
     "filters.options.tableFilter.PermissionSets": "Permission sets",
     "filters.options.tableFilter.loantypes": "Rodzaje wypożyczeń",
