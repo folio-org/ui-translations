@@ -69,7 +69,7 @@
     "filters.options.tableFilter.instanceStatuses": "實例狀態類型",
     "filters.options.tableFilter.payments": "費用 / 罰款：付款方式",
     "filters.options.tableFilter.noteTypes": "附註類型",
-    "filters.options.tableFilter.requestPolicies": "預約政策",
+    "filters.options.tableFilter.requestPolicies": "預約規則",
     "filters.options.tableFilter.itemNoteTypes": "單件附註類型",
     "filters.options.tableFilter.statisticalCodeTypes": "統計代碼類型",
     "filters.options.tableFilter.refunds": "費用 / 罰款：退款原因",
