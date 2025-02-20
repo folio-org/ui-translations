@@ -28,7 +28,7 @@
     "filters.options.tableFilter.instanceNoteTypes": "实例附注类型",
     "filters.options.tableFilter.loanpolicy": "借阅政策",
     "filters.options.tableFilter.fundTypes": "经费类型",
-    "filters.options.tableFilter.locations": "位置",
+    "filters.options.tableFilter.locations": "馆藏地",
     "filters.options.tableFilter.courseTypes": "课程类型",
     "filters.options.tableFilter.batchGroups": "批次组",
     "filters.options.tableFilter.natureOfContentTerms": "内容的性质",
