@@ -19,7 +19,7 @@
     "filters.options.statusFilter.translated": "Translated",
     "filters.options.statusFilter.notTranslated": "Not translated",
     "filters.options.statusFilter.englishOnly": "English only",
-    "filters.options.statusFilter.noneEnglish": "None english",
+    "filters.options.statusFilter.noneEnglish": "Brak angielskiego",
     "filters.options.tableFilter.callNumberTypes": "Rodzaje sygnatury",
     "filters.options.tableFilter.permissions": "Permissions",
     "filters.options.tableFilter.contributorTypes": "Rodzaj współtwórcy",
