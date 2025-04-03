@@ -58,7 +58,7 @@
     "filters.options.tableFilter.addressTypes": "Типи адрес",
     "filters.options.tableFilter.illPolicies": "Політика МБА",
     "filters.options.tableFilter.PatronNotices": "Шаблони сповіщень для користувачів",
-    "filters.options.tableFilter.staffSlips": "Staff slips",
+    "filters.options.tableFilter.staffSlips": "Друковані форми для персоналу",
     "filters.options.tableFilter.suffixes": "Suffixes",
     "filters.options.tableFilter.loccamps": "Кампуси",
     "filters.options.tableFilter.terms": "Умови",
