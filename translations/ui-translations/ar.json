@@ -50,7 +50,7 @@
     "filters.options.tableFilter.electronicAccessRelationships": "علاقة عنوان URL",
     "filters.options.tableFilter.materialTypes": "أنواع المواد",
     "filters.options.tableFilter.departments": "الأقسام",
-    "filters.options.tableFilter.patronGroups": "مجموعات المستفيدين",
+    "filters.options.tableFilter.patronGroups": "مجموعات المستفيد",
     "filters.options.tableFilter.issuanceModes": "أوضاع الإصدار",
     "filters.options.tableFilter.PermissionSets": "مجموعات الصلاحيات",
     "filters.options.tableFilter.loantypes": "أنواع الإعارة",
