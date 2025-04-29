@@ -90,7 +90,7 @@
     "searchBox.searchOptions.translationKey": "Translation key",
     "searchBox.validate.noLangaugeFound": "Виберіть мову для активації пошуку",
     "searchBox.enterSearchTerm": "Введіть пошуковий запит",
-    "Stats.validate.noStats": "No statistics!",
+    "Stats.validate.noStats": "Статистика відсутня!",
     "Stats.paneTitle": "Статистика",
     "editTranslation.form.translatedText.placeholder": "Введіть текст перекладу",
     "editTranslation.modal.header": "{appName} Додаток - {tableName} Таблиця",
