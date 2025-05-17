@@ -57,7 +57,7 @@
     "filters.options.tableFilter.expenseClasses": "Expense classes",
     "filters.options.tableFilter.addressTypes": "Address Types",
     "filters.options.tableFilter.illPolicies": "Reguła ILL",
-    "filters.options.tableFilter.PatronNotices": "Szablony powiadomień",
+    "filters.options.tableFilter.PatronNotices": "Szablony powiadomień czytelnika",
     "filters.options.tableFilter.staffSlips": "Rewersy dla personelu",
     "filters.options.tableFilter.suffixes": "Sufiksy",
     "filters.options.tableFilter.loccamps": "Campuses",
