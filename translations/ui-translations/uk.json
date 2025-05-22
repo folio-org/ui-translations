@@ -74,7 +74,7 @@
     "filters.options.tableFilter.statisticalCodeTypes": "Типи кодів статистики",
     "filters.options.tableFilter.refunds": "Пеня/штраф: причини відшкодування",
     "filters.options.tableFilter.locinsts": "Установи",
-    "filters.options.tableFilter.prefixes": "Prefixes",
+    "filters.options.tableFilter.prefixes": "Префікси",
     "filters.options.tableFilter.lostItemFeePolicies": "Політики пені за втрачені примірники",
     "filters.options.tableFilter.addresses": "Адреси",
     "filters.options.tableFilter.waivers": "Пеня/штраф: причини відмови",
