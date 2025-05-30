@@ -22,7 +22,7 @@
     "filters.options.statusFilter.noneEnglish": "Brak angielskiego",
     "filters.options.tableFilter.callNumberTypes": "Rodzaje sygnatury",
     "filters.options.tableFilter.permissions": "Permissions",
-    "filters.options.tableFilter.contributorTypes": "Rodzaj współtwórcy",
+    "filters.options.tableFilter.contributorTypes": "Rodzaje współautorów",
     "filters.options.tableFilter.instanceTypes": "Typy zasobów",
     "filters.options.tableFilter.instanceFormats": "Formaty",
     "filters.options.tableFilter.instanceNoteTypes": "Typy uwag do instancji",
