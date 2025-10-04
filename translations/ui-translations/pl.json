@@ -48,7 +48,7 @@
     "filters.options.tableFilter.patronNoticePolicies": "Reguły powiadomień czytelnika",
     "filters.options.tableFilter.alternativeTitleTypes": "Rodzaje wariantu tytułu",
     "filters.options.tableFilter.electronicAccessRelationships": "Relacja URL",
-    "filters.options.tableFilter.materialTypes": "Typy materiału",
+    "filters.options.tableFilter.materialTypes": "Rodzaje materiału",
     "filters.options.tableFilter.departments": "Działy",
     "filters.options.tableFilter.patronGroups": "Grupy czytelnika",
     "filters.options.tableFilter.issuanceModes": "Tryby wydawania",

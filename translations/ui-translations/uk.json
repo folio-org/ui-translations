@@ -87,7 +87,7 @@
     "resultsPane.columns.translatedText": "Перекладений текст",
     "resultsPane.validate.noLangaugeFound": "Спочатку виберіть мову, щоб мати змогу показувати доступні переклади",
     "searchBox.searchOptions.allFields": "Всі поля",
-    "searchBox.searchOptions.translationKey": "Translation key",
+    "searchBox.searchOptions.translationKey": "Ключ перекладу",
     "searchBox.validate.noLangaugeFound": "Виберіть мову для активації пошуку",
     "searchBox.enterSearchTerm": "Введіть пошуковий термін",
     "Stats.validate.noStats": "Статистика відсутня!",
