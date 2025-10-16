@@ -36,7 +36,7 @@
     "filters.options.tableFilter.processingStatuses": "Statusy przetwarzania",
     "filters.options.tableFilter.section": "Semestry",
     "filters.options.tableFilter.holdingsTypes": "Typy zasobów",
-    "filters.options.tableFilter.pickListValues": "Wartości z listy wyboru",
+    "filters.options.tableFilter.pickListValues": "Wartości listy wyboru",
     "filters.options.tableFilter.identifierTypes": "Typy identyfikatorów zasobów",
     "filters.options.tableFilter.owners": "Opłata/kara: właściciele",
     "filters.options.tableFilter.reasonsForClosure": "Powody zamknięcia zamówienia zakupu",
