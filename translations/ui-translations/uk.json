@@ -27,7 +27,7 @@
     "filters.options.tableFilter.instanceFormats": "Формати",
     "filters.options.tableFilter.instanceNoteTypes": "Типи приміток біб.запису (інстансу)",
     "filters.options.tableFilter.loanpolicy": "Політики книговидачі",
-    "filters.options.tableFilter.fundTypes": "Типи Грошових коштів",
+    "filters.options.tableFilter.fundTypes": "Типи Фондів (Грошових коштів)",
     "filters.options.tableFilter.locations": "Місця розміщення",
     "filters.options.tableFilter.courseTypes": "Типи курсів",
     "filters.options.tableFilter.batchGroups": "Групи пакетних завдань",
