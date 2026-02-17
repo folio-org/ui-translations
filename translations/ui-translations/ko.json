@@ -79,7 +79,7 @@
     "filters.options.tableFilter.addresses": "Addresses",
     "filters.options.tableFilter.waivers": "Fee/fine: Waive reasons",
     "filters.options.tableFilter.supplementaryProperties": "Supplementary properties",
-    "filters.options.tableFilter.fixedDueDateSchedules": "Fixed due date schedules",
+    "filters.options.tableFilter.fixedDueDateSchedules": "고정 기한 일정",
     "filters.options.tableFilter.finePolicies": "Overdue fine policies",
     "filters.options.tableFilter.feefines": "Fee/fine: Manual charges",
     "resultsPane.columns.actions": "Actions",
