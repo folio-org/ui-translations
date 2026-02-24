@@ -43,7 +43,7 @@
     "filters.options.tableFilter.ServicePoint": "Puntos de servicio",
     "filters.options.tableFilter.userInfo": "Información del usuario",
     "filters.options.tableFilter.classificationTypes": "Tipos de identificadores de clasificación",
-    "filters.options.tableFilter.cancellationReasons": "Solicitar motivos de anulación",
+    "filters.options.tableFilter.cancellationReasons": "Motivos de cancelación de la solicitud",
     "filters.options.tableFilter.statisticalCodes": "Códigos estadísticos",
     "filters.options.tableFilter.patronNoticePolicies": "Políticas de aviso al usuario",
     "filters.options.tableFilter.alternativeTitleTypes": "Tipos de títulos alternativos",
