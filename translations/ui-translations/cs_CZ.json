@@ -43,7 +43,7 @@
     "filters.options.tableFilter.ServicePoint": "Pulty služeb",
     "filters.options.tableFilter.userInfo": "Informace o uživateli",
     "filters.options.tableFilter.classificationTypes": "Klasifikační systémy",
-    "filters.options.tableFilter.cancellationReasons": "Vyžádat důvody zrušení",
+    "filters.options.tableFilter.cancellationReasons": "Důvody zrušení žádanky",
     "filters.options.tableFilter.statisticalCodes": "Statistické kódy",
     "filters.options.tableFilter.patronNoticePolicies": "Pravidla notifikací pro čtenáře",
     "filters.options.tableFilter.alternativeTitleTypes": "Variantní názvy",
